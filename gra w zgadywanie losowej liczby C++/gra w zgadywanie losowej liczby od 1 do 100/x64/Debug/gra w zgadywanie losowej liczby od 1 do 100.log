@@ -1,0 +1,4 @@
+﻿  gra w zgadywanie losowej liczby od 1 do 100.cpp
+C:\Users\adamd\OneDrive\Pulpit\Projekty C++\gra w zgadywanie losowej liczby C++\gra w zgadywanie losowej liczby od 1 do 100\gra w zgadywanie losowej liczby od 1 do 100.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\adamd\OneDrive\Pulpit\Projekty C++\gra w zgadywanie losowej liczby C++\gra w zgadywanie losowej liczby od 1 do 100\gra w zgadywanie losowej liczby od 1 do 100.cpp(15,4): warning C4102: 'gra': unreferenced label
+  gra w zgadywanie losowej liczby od 1 do 100.vcxproj -> C:\Users\adamd\OneDrive\Pulpit\Projekty C++\gra w zgadywanie losowej liczby C++\x64\Debug\gra w zgadywanie losowej liczby od 1 do 100.exe
